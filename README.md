@@ -113,3 +113,9 @@ A star schema (`accident_fact` fact table with `dim_driver`, `dim_vehicle`, `dim
 - **Tanveer Ahmed** 
 
 Submitted to Rafifa Islam, Lecturer, Department of Business Administration, East Delta University.
+
+
+## Data
+
+Due to file size, the predictive analysis dataset (~82 MB) is hosted externally:
+📎 [traffic_data_predictive_analysis.xlsx](https://docs.google.com/spreadsheets/d/1voBEGsfihRJosZwDalUmImYPWNW8vD21/edit?usp=sharing&ouid=103379323125372280645&rtpof=true&sd=true)
